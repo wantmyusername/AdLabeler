@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdLabeler - Automatically label your AdSense banners\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-28 00:18+0000\n"
+"PO-Revision-Date: 2024-05-28 00:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3\n"
+"X-Domain: adlabeler"
+
+#: index.php:90 index.php:103
+msgid "Add your text label here. Eg. Advertising"
+msgstr "Añade aquí su etiqueta de texto. Ej. Anuncios"
+
+#: index.php:193
+msgid "AdLabeler"
+msgstr "AdLabeler"
+
+#. Name of the plugin
+msgid "AdLabeler - Automatically label your AdSense banners"
+msgstr "AdLabeler - Etiqueta automáticamente tus banners de AdSense"
+
+#: index.php:73
+msgid "AdLabeler Settings"
+msgstr "Configuración de AdLabeler"
+
+#. Description of the plugin
+msgid ""
+"An intuitive plugin that automatically adds labels like \"Ad\" or "
+"\"Advertising\" to your AdSense banners, enhancing transparency and user "
+"experience."
+msgstr ""
+"Un plugin intuitivo que añade automáticamente etiquetas como \"Anuncio\" o "
+"\"Publicidad\" a sus banners de AdSense, mejorando la transparencia y la "
+"experiencia del usuario."
+
+#: index.php:83
+msgid "Auto + Manual Ads (Globally)"
+msgstr "Anuncios automáticos y manuales (Todo el sitio)"
+
+#: index.php:96
+msgid "Automatic Ads Only"
+msgstr "Sólo anuncios automáticos"
+
+#. Author of the plugin
+msgid "BunkerLATAM"
+msgstr "BunkerLATAM"
+
+#: index.php:193
+msgid "by"
+msgstr "haciendo"
+
+#: index.php:193
+msgid "clicking here"
+msgstr "clic aquí"
+
+#: index.php:84 index.php:97
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: index.php:84 index.php:97
+msgid "Enabled"
+msgstr "Activado"
+
+#: index.php:77
+msgid "General"
+msgstr "General"
+
+#: index.php:193
+msgid "Hello, please finish setting up"
+msgstr "Hola, por favor, termina de configurar"
+
+#. Author URI of the plugin
+msgid "https://bunkerlatam.gumroad.com"
+msgstr "https://bunkerlatam.gumroad.com"
+
+#: index.php:78
+msgid ""
+"Publishers have two options for how to label AdSense ad units: You can "
+"either label the units with \"Advertisements\" or \"Sponsored Links\"."
+msgstr ""
+"Los editores tienen dos opciones para etiquetar los bloques de anuncios de "
+"AdSense: Pueden etiquetar las unidades con \"Anuncios\" o \"Enlaces "
+"patrocinados\"."
+
+#: index.php:193
+msgid "Settings"
+msgstr "Configuración"
+
+#: index.php:84 index.php:97
+msgid "Status:"
+msgstr "Estado:"
+
+#: index.php:98
+msgid ""
+"This is only valid for manually inserted ad blocks (HTML). Text will not be "
+"added to automatic ads."
+msgstr ""
+"Esto sólo es válido para bloques de anuncios insertados manualmente (HTML). "
+"No se añadirá texto a los anuncios automáticos."
+
+#: index.php:85
+msgid ""
+"This option inserts the text into all ads, whether they are automatic ads or "
+"manually inserted ads (HTML)"
+msgstr ""
+"Esta opción inserta el texto en todos los anuncios, ya sean anuncios "
+"automáticos o insertados manualmente (HTML)"
